@@ -7,4 +7,4 @@
 
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=baiyo&theme=github-dark&hide_border=true&background=161B22)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=baiyo)](https://git.io/streak-stats)
